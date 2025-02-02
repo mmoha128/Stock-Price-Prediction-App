@@ -26,7 +26,7 @@ A simple Streamlit app that predicts stock prices using Auto ARIMA models.
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/Stock-Price-Prediction-App.git
+git clone [https://github.com/mmoha128/Stock-Price-Prediction-App.git]
 cd Stock-Price-Prediction-App
 2️⃣ Create a Virtual Environment
 bash
